@@ -1,8 +1,7 @@
 # Industrial AI
 
-Notebooks for the Industrial AI course at KBTU (Automation and Control). Every week has an
-in-class work, done together in the class hour, and most weeks a graded practice that you finish
-on your own. The data are real plant and test-rig records where possible, simulated where a real
+Notebooks for the Industrial AI course at KBTU. Every week has an in-class work, done together in
+the class hour, and most weeks a graded practice that you finish on your own. The data are real plant and test-rig records where possible, simulated where a real
 record would not show the effect cleanly.
 
 ## Weeks
@@ -20,9 +19,6 @@ record would not show the effect cleanly.
 | 10 | PID tuning by genetic algorithm and particle swarm | [inclass_work_10](week10/inclass_work_10.ipynb) | [practice_6](week10/practice_6.ipynb) | simulated furnace and heat exchanger |
 | 11 | equipment diagnostics, FMEA, FTA, HAZOP, HAZID | [inclass_work_11](week11/inclass_work_11.ipynb) | [practice_7](week11/practice_7.ipynb) | hydraulic rig, NASA C-MAPSS |
 | 13 | predicting a control object, artificial immune systems | [inclass_work_13](week13/inclass_work_13.ipynb) | [practice_8](week13/practice_8.ipynb) | simulated tank and motor, Tennessee Eastman |
-
-There are no notebooks for week 6 (defences of practices 1–3), week 8 (midterm), week 12
-(Quiz 2), week 14 (project defences) or week 15 (end-term).
 
 ## Running the notebooks
 
@@ -42,6 +38,33 @@ of this repository, or at least keep `data/` in a folder above the notebook. See
 Notebooks that train networks (week 7 and the optional task of week 10) use an NVIDIA GPU when
 PyTorch sees one and the CPU otherwise. For the GPU, install the CUDA build of PyTorch from
 <https://pytorch.org/get-started/locally/> instead of the one in `requirements.txt`.
+
+### In Google Colab or on Kaggle
+
+Every notebook also runs in the cloud, with a free GPU and nothing to install on your machine.
+
+- **Colab.** Open the notebook straight from GitHub: replace `https://github.com/` in its link
+  with `https://colab.research.google.com/github/`, for example
+  <https://colab.research.google.com/github/Aldabergenov1/industrial-ai-students/blob/main/week07/inclass_work_7.ipynb>.
+  For the GPU choose *Runtime → Change runtime type → GPU*.
+- **Kaggle.** Create a notebook at <https://www.kaggle.com/code>, then *File → Import Notebook*
+  and paste the GitHub link of the notebook. In the settings panel switch *Internet* on (it needs
+  a phone-verified account) and pick a GPU accelerator.
+
+The notebooks look for the files in `data/` and for `week10/exchanger.py` next to themselves. In
+the cloud they are not there yet, so add one cell at the very top that clones the repository and
+moves into the week folder, then run the notebook as usual:
+
+```
+!git clone -q https://github.com/Aldabergenov1/industrial-ai-students.git
+%cd industrial-ai-students/week07
+```
+
+Change `week07` to the week you are working on. If `import kagglehub` fails, run
+`!pip install -q kagglehub` once.
+
+Colab and Kaggle already have NumPy, pandas, scikit-learn and the CUDA build of PyTorch. A cloud
+session is deleted when it ends, so download your notebook and answer sheet before you close it.
 
 ## Practices
 
