@@ -1,0 +1,11 @@
+# Industrial AI, KBTU
+# python -m venv .venv && .venv\Scripts\activate && pip install -r requirements.txt
+
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.9          # boxplot(tick_labels=...) needs 3.9 or newer
+scipy>=1.11
+scikit-learn>=1.4
+torch>=2.2               # weeks 7 and 10 (optional task); the CPU build is enough
+jupyterlab>=4.0
+kagglehub>=0.3           # public Kaggle data sets, no account or token needed

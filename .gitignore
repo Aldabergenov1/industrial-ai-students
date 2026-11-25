@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+*.docx
+week04/ai4i_features.py
+week04/models/
+.venv/
+data/ai4i/
+data/pump_sensor/
+data/hydraulic/
+data/tep/
+data/secom/
+data/cwru/
+data/concrete/
+data/cmapss/

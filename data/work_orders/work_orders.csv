@@ -1,0 +1,415 @@
+order_id,type,text
+WO-1001,unplanned,Hot surface warning label missing on the cooler outlet pipe.
+WO-1002,planned,Cooler fins cleaned on schedule. Line 2 stopped for an hour.
+WO-1003,unplanned,Hot surface warning label missing on the cooler outlet pipe. Reported by the night shift.
+WO-1004,unplanned,"Electric shock from the pump motor casing, earth lead broken."
+WO-1005,planned,"Filter clogging indicator checked, element replaced. Follow up next week."
+WO-1006,unplanned,"Smell of burning oil near the power unit, leak traced to a fitting."
+WO-1007,unplanned,"Cooler outlet pipe at high temperature, no guard, contact burn risk. Logged by the shift supervisor."
+WO-1008,unplanned,"Damaged motor cable insulation, live conductor visible."
+WO-1009,unplanned,Coupling blew off the high pressure hose during start up.
+WO-1010,unplanned,"Damaged motor cable insulation, live conductor visible."
+WO-1011,unplanned,"Oil soaked insulation found under the power unit, ignition risk. Logged by the shift supervisor."
+WO-1012,unplanned,"Noise level high near the power unit, operators complain. Follow up next week."
+WO-1013,unplanned,"Leaking return line, oil pooled under the motor, fire extinguisher moved closer. Reported by the night shift."
+WO-1014,unplanned,Burn on the forearm from the hot return pipe.
+WO-1015,planned,Routine greasing of the pump coupling done. Reported by the night shift.
+WO-1016,unplanned,"Cooler outlet pipe at high temperature, no guard, contact burn risk. Logged by the shift supervisor."
+WO-1017,unplanned,"Accumulator not discharged before valve removal, residual pressure released at the fitting."
+WO-1018,planned,Routine greasing of the pump coupling done.
+WO-1019,planned,"Filter clogging indicator checked, element replaced."
+WO-1020,unplanned,"Electric shock from the pump motor casing, earth lead broken."
+WO-1021,unplanned,"Damaged motor cable insulation, live conductor visible. Line 2 stopped for an hour."
+WO-1022,unplanned,Coupling blew off the high pressure hose during start up.
+WO-1023,planned,"Oil sample sent to the lab, results normal. Spare parts ordered."
+WO-1024,unplanned,Hot surface warning label missing on the cooler outlet pipe. Line 2 stopped for an hour.
+WO-1025,unplanned,"Loud whine from the pump, noise survey requested. Line 2 stopped for an hour."
+WO-1026,unplanned,Coupling blew off the high pressure hose during start up. Logged by the shift supervisor.
+WO-1027,planned,Cooler fins cleaned on schedule.
+WO-1028,unplanned,Burn on the forearm from the hot return pipe. Follow up next week.
+WO-1029,unplanned,"Hearing protection sign missing at the pump, noise survey overdue. Reported by the night shift."
+WO-1030,unplanned,"Hearing protection sign missing at the pump, noise survey overdue. Follow up next week."
+WO-1031,unplanned,"Hose burst during the press stroke, oil jet across the walkway."
+WO-1032,unplanned,"Damaged motor cable insulation, live conductor visible."
+WO-1033,unplanned,"Pump noise above limit at the operator station, ear protection required. Reported by the night shift."
+WO-1034,planned,Tank level topped up after the monthly check.
+WO-1035,unplanned,"Noise level high near the power unit, operators complain. Spare parts ordered."
+WO-1036,planned,Routine greasing of the pump coupling done.
+WO-1037,unplanned,"Oil mist around the tank, risk of ignition near the heater. Follow up next week."
+WO-1038,unplanned,"Oil mist around the tank, risk of ignition near the heater."
+WO-1039,planned,"Filter clogging indicator checked, element replaced. Follow up next week."
+WO-1040,planned,Oil sample taken for the monthly analysis. Logged by the shift supervisor.
+WO-1041,unplanned,"Chafed hose on the bracket, burst risk, rerouted and clamped. Follow up next week."
+WO-1042,unplanned,"Smoke from oil dripping on the heater, power unit stopped. Logged by the shift supervisor."
+WO-1043,planned,Tank level topped up after the monthly check. Follow up next week.
+WO-1044,unplanned,"Oil mist around the tank, risk of ignition near the heater."
+WO-1045,unplanned,"Actuator moved after isolation, residual pressure from the accumulator. Follow up next week."
+WO-1046,planned,Tank level topped up after the monthly check. Spare parts ordered.
+WO-1047,unplanned,"Damaged motor cable insulation, live conductor visible. Spare parts ordered."
+WO-1048,unplanned,"Hose burst during the press stroke, oil jet across the walkway."
+WO-1049,planned,Routine greasing of the pump coupling done.
+WO-1050,unplanned,"Water in the motor terminal box, breaker tripped. Spare parts ordered."
+WO-1051,unplanned,"Electric shock from the pump motor casing, earth lead broken. Spare parts ordered."
+WO-1052,unplanned,"Pinhole in the high pressure hose, fine oil jet at the coupling. Follow up next week."
+WO-1053,planned,Oil sample taken for the monthly analysis.
+WO-1054,planned,Routine greasing of the pump coupling done. Reported by the night shift.
+WO-1055,unplanned,"Operator hit by oil jet from a split hose, sent to first aid."
+WO-1056,unplanned,Coupling blew off the high pressure hose during start up.
+WO-1057,planned,"Oil sample sent to the lab, results normal. Reported by the night shift."
+WO-1058,unplanned,"Accumulator still charged after isolation, residual pressure on the gauge."
+WO-1059,planned,Return filter element changed on schedule.
+WO-1060,unplanned,"Pinhole in the high pressure hose, fine oil jet at the coupling."
+WO-1061,unplanned,"Motor terminal box cover missing, live parts exposed. Logged by the shift supervisor."
+WO-1062,unplanned,"Smoke from oil dripping on the heater, power unit stopped. Line 2 stopped for an hour."
+WO-1063,unplanned,"Oil soaked insulation found under the power unit, ignition risk."
+WO-1064,planned,"Filter clogging indicator checked, element replaced. Reported by the night shift."
+WO-1065,unplanned,"Fitter touched the cooler pipe, minor burn on the hand. Reported by the night shift."
+WO-1066,planned,Tank level topped up after the monthly check.
+WO-1067,planned,Cooler fins cleaned on schedule. Logged by the shift supervisor.
+WO-1068,unplanned,"Loud whine from the pump, noise survey requested. Reported by the night shift."
+WO-1069,planned,Oil sample taken for the monthly analysis.
+WO-1070,unplanned,"Oil mist around the tank, risk of ignition near the heater. Line 2 stopped for an hour."
+WO-1071,unplanned,"Chafed hose on the bracket, burst risk, rerouted and clamped. Line 2 stopped for an hour."
+WO-1072,unplanned,"Damaged motor cable insulation, live conductor visible."
+WO-1073,unplanned,"Loud whine from the pump, noise survey requested. Follow up next week."
+WO-1074,unplanned,"Damaged motor cable insulation, live conductor visible. Logged by the shift supervisor."
+WO-1075,unplanned,"Tank surface too hot to touch after a long shift, guard requested."
+WO-1076,unplanned,"Accumulator not discharged before valve removal, residual pressure released at the fitting. Logged by the shift supervisor."
+WO-1077,unplanned,"Oil soaked insulation found under the power unit, ignition risk."
+WO-1078,unplanned,"Fitter touched the cooler pipe, minor burn on the hand. Spare parts ordered."
+WO-1079,planned,Routine greasing of the pump coupling done. Line 2 stopped for an hour.
+WO-1080,unplanned,"Hose burst during the press stroke, oil jet across the walkway."
+WO-1081,planned,Cooler fins cleaned on schedule. Follow up next week.
+WO-1082,unplanned,"Electric shock from the pump motor casing, earth lead broken. Reported by the night shift."
+WO-1083,unplanned,"Smell of burning oil near the power unit, leak traced to a fitting."
+WO-1084,unplanned,"Actuator moved after isolation, residual pressure from the accumulator. Reported by the night shift."
+WO-1085,unplanned,"Pinhole in the high pressure hose, fine oil jet at the coupling. Line 2 stopped for an hour."
+WO-1086,unplanned,"Tank surface too hot to touch after a long shift, guard requested. Follow up next week."
+WO-1087,unplanned,"Pump noise above limit at the operator station, ear protection required. Reported by the night shift."
+WO-1088,unplanned,Hot surface warning label missing on the cooler outlet pipe. Line 2 stopped for an hour.
+WO-1089,unplanned,Oil leak on the power unit dripping onto the hot motor housing. Follow up next week.
+WO-1090,unplanned,"Damaged motor cable insulation, live conductor visible."
+WO-1091,unplanned,"Accumulator still charged after isolation, residual pressure on the gauge. Logged by the shift supervisor."
+WO-1092,planned,Cooler fins cleaned on schedule.
+WO-1093,unplanned,"Smoke from oil dripping on the heater, power unit stopped."
+WO-1094,unplanned,Oil leak on the power unit dripping onto the hot motor housing. Line 2 stopped for an hour.
+WO-1095,unplanned,"Fitter touched the cooler pipe, minor burn on the hand."
+WO-1096,unplanned,"Smell of burning oil near the power unit, leak traced to a fitting."
+WO-1097,unplanned,"Earth fault on the motor circuit, breaker tripped twice."
+WO-1098,unplanned,"Chafed hose on the bracket, burst risk, rerouted and clamped."
+WO-1099,planned,Cooler fins cleaned on schedule. Follow up next week.
+WO-1100,unplanned,"Hose cover worn through, wire braid visible, hose replaced. Follow up next week."
+WO-1101,unplanned,"Hose cover worn through, wire braid visible, hose replaced. Logged by the shift supervisor."
+WO-1102,unplanned,"Smell of burning oil near the power unit, leak traced to a fitting. Follow up next week."
+WO-1103,planned,Routine greasing of the pump coupling done.
+WO-1104,unplanned,"Motor terminal box cover missing, live parts exposed. Logged by the shift supervisor."
+WO-1105,unplanned,"Loud whine from the pump, noise survey requested."
+WO-1106,unplanned,"Valve block opened with the accumulator still charged, residual pressure sprayed oil."
+WO-1107,planned,"Filter clogging indicator checked, element replaced. Line 2 stopped for an hour."
+WO-1108,unplanned,"Pinhole in the high pressure hose, fine oil jet at the coupling."
+WO-1109,planned,Cooler fins cleaned on schedule. Reported by the night shift.
+WO-1110,unplanned,"Leaking return line, oil pooled under the motor, fire extinguisher moved closer. Spare parts ordered."
+WO-1111,planned,Return filter element changed on schedule. Spare parts ordered.
+WO-1112,planned,Return filter element changed on schedule. Reported by the night shift.
+WO-1113,planned,Cooler fins cleaned on schedule. Logged by the shift supervisor.
+WO-1114,unplanned,"Leaking return line, oil pooled under the motor, fire extinguisher moved closer."
+WO-1115,unplanned,"Oil mist around the tank, risk of ignition near the heater."
+WO-1116,planned,Cooler fins cleaned on schedule. Reported by the night shift.
+WO-1117,unplanned,Coupling blew off the high pressure hose during start up.
+WO-1118,planned,Oil sample taken for the monthly analysis.
+WO-1119,planned,"Oil sample sent to the lab, results normal. Logged by the shift supervisor."
+WO-1120,unplanned,"Tank surface too hot to touch after a long shift, guard requested. Logged by the shift supervisor."
+WO-1121,unplanned,"Leaking return line, oil pooled under the motor, fire extinguisher moved closer."
+WO-1122,unplanned,Coupling blew off the high pressure hose during start up. Spare parts ordered.
+WO-1123,unplanned,"Oil soaked insulation found under the power unit, ignition risk. Line 2 stopped for an hour."
+WO-1124,unplanned,"Water in the motor terminal box, breaker tripped. Spare parts ordered."
+WO-1125,unplanned,"Fitter touched the cooler pipe, minor burn on the hand. Follow up next week."
+WO-1126,unplanned,"Leaking return line, oil pooled under the motor, fire extinguisher moved closer."
+WO-1127,planned,Oil sample taken for the monthly analysis. Follow up next week.
+WO-1128,unplanned,"Earth fault on the motor circuit, breaker tripped twice. Follow up next week."
+WO-1129,planned,"Oil sample sent to the lab, results normal. Line 2 stopped for an hour."
+WO-1130,planned,"Oil sample sent to the lab, results normal. Reported by the night shift."
+WO-1131,unplanned,"Earth fault on the motor circuit, breaker tripped twice."
+WO-1132,planned,Cooler fins cleaned on schedule. Line 2 stopped for an hour.
+WO-1133,planned,Return filter element changed on schedule. Reported by the night shift.
+WO-1134,unplanned,"Motor terminal box cover missing, live parts exposed."
+WO-1135,planned,Tank level topped up after the monthly check. Spare parts ordered.
+WO-1136,unplanned,Hot surface warning label missing on the cooler outlet pipe. Spare parts ordered.
+WO-1137,planned,"Oil sample sent to the lab, results normal. Spare parts ordered."
+WO-1138,unplanned,"Oil soaked insulation found under the power unit, ignition risk."
+WO-1139,unplanned,"Earth fault on the motor circuit, breaker tripped twice. Logged by the shift supervisor."
+WO-1140,unplanned,"Operator hit by oil jet from a split hose, sent to first aid."
+WO-1141,unplanned,"Pump noise above limit at the operator station, ear protection required. Follow up next week."
+WO-1142,unplanned,"Pinhole in the high pressure hose, fine oil jet at the coupling."
+WO-1143,unplanned,Burn on the forearm from the hot return pipe. Logged by the shift supervisor.
+WO-1144,unplanned,"Hearing protection sign missing at the pump, noise survey overdue."
+WO-1145,unplanned,"Pump noise above limit at the operator station, ear protection required."
+WO-1146,unplanned,"Residual pressure in the line after isolation, accumulator not discharged. Spare parts ordered."
+WO-1147,unplanned,"Electric shock from the pump motor casing, earth lead broken. Line 2 stopped for an hour."
+WO-1148,unplanned,"Earth fault on the motor circuit, breaker tripped twice. Logged by the shift supervisor."
+WO-1149,unplanned,"Hearing protection sign missing at the pump, noise survey overdue."
+WO-1150,planned,"Filter clogging indicator checked, element replaced. Line 2 stopped for an hour."
+WO-1151,unplanned,"Smoke from oil dripping on the heater, power unit stopped. Spare parts ordered."
+WO-1152,planned,"Filter clogging indicator checked, element replaced."
+WO-1153,planned,Routine greasing of the pump coupling done. Line 2 stopped for an hour.
+WO-1154,unplanned,"Fitter touched the cooler pipe, minor burn on the hand."
+WO-1155,unplanned,"Noise level high near the power unit, operators complain. Spare parts ordered."
+WO-1156,unplanned,"Motor terminal box cover missing, live parts exposed. Follow up next week."
+WO-1157,unplanned,"Leaking return line, oil pooled under the motor, fire extinguisher moved closer."
+WO-1158,planned,Return filter element changed on schedule. Logged by the shift supervisor.
+WO-1159,unplanned,"Actuator moved after isolation, residual pressure from the accumulator."
+WO-1160,planned,"Oil sample sent to the lab, results normal. Logged by the shift supervisor."
+WO-1161,unplanned,"Tank surface too hot to touch after a long shift, guard requested."
+WO-1162,unplanned,"Hearing protection sign missing at the pump, noise survey overdue."
+WO-1163,unplanned,"Smoke from oil dripping on the heater, power unit stopped."
+WO-1164,unplanned,"Lockout on the motor only, accumulator still charged, residual pressure in the line. Line 2 stopped for an hour."
+WO-1165,unplanned,"Hearing protection sign missing at the pump, noise survey overdue."
+WO-1166,unplanned,"Motor terminal box cover missing, live parts exposed. Follow up next week."
+WO-1167,unplanned,"Smoke from oil dripping on the heater, power unit stopped."
+WO-1168,unplanned,"Smoke from oil dripping on the heater, power unit stopped."
+WO-1169,unplanned,Hot surface warning label missing on the cooler outlet pipe. Spare parts ordered.
+WO-1170,unplanned,"Earth fault on the motor circuit, breaker tripped twice."
+WO-1171,unplanned,"Accumulator not discharged before valve removal, residual pressure released at the fitting. Line 2 stopped for an hour."
+WO-1172,planned,Oil sample taken for the monthly analysis. Follow up next week.
+WO-1173,unplanned,"Pinhole in the high pressure hose, fine oil jet at the coupling. Line 2 stopped for an hour."
+WO-1174,unplanned,"Cooler outlet pipe at high temperature, no guard, contact burn risk. Follow up next week."
+WO-1175,planned,Routine greasing of the pump coupling done.
+WO-1176,unplanned,Oil leak on the power unit dripping onto the hot motor housing. Line 2 stopped for an hour.
+WO-1177,unplanned,"Fitter touched the cooler pipe, minor burn on the hand. Line 2 stopped for an hour."
+WO-1178,unplanned,"Accumulator still charged after isolation, residual pressure on the gauge."
+WO-1179,planned,"Oil sample sent to the lab, results normal."
+WO-1180,unplanned,Hot surface warning label missing on the cooler outlet pipe. Line 2 stopped for an hour.
+WO-1181,unplanned,"Smoke from oil dripping on the heater, power unit stopped. Follow up next week."
+WO-1182,unplanned,Hot surface warning label missing on the cooler outlet pipe. Reported by the night shift.
+WO-1183,unplanned,"Hose burst during the press stroke, oil jet across the walkway."
+WO-1184,planned,Routine greasing of the pump coupling done. Line 2 stopped for an hour.
+WO-1185,unplanned,"Noise level high near the power unit, operators complain. Line 2 stopped for an hour."
+WO-1186,unplanned,Burn on the forearm from the hot return pipe.
+WO-1187,unplanned,"Chafed hose on the bracket, burst risk, rerouted and clamped."
+WO-1188,unplanned,"Smoke from oil dripping on the heater, power unit stopped. Line 2 stopped for an hour."
+WO-1189,unplanned,"Leaking return line, oil pooled under the motor, fire extinguisher moved closer. Reported by the night shift."
+WO-1190,unplanned,"Hearing protection sign missing at the pump, noise survey overdue."
+WO-1191,unplanned,"Electric shock from the pump motor casing, earth lead broken. Spare parts ordered."
+WO-1192,unplanned,"Accumulator still charged after isolation, residual pressure on the gauge. Spare parts ordered."
+WO-1193,planned,Routine greasing of the pump coupling done.
+WO-1194,unplanned,"Valve block opened with the accumulator still charged, residual pressure sprayed oil. Spare parts ordered."
+WO-1195,unplanned,"Noise level high near the power unit, operators complain. Logged by the shift supervisor."
+WO-1196,unplanned,"Hose cover worn through, wire braid visible, hose replaced. Spare parts ordered."
+WO-1197,unplanned,"Earth fault on the motor circuit, breaker tripped twice. Line 2 stopped for an hour."
+WO-1198,planned,Tank level topped up after the monthly check. Reported by the night shift.
+WO-1199,planned,Routine greasing of the pump coupling done.
+WO-1200,unplanned,Hot surface warning label missing on the cooler outlet pipe. Logged by the shift supervisor.
+WO-1201,unplanned,Coupling blew off the high pressure hose during start up. Follow up next week.
+WO-1202,unplanned,"Oil soaked insulation found under the power unit, ignition risk. Spare parts ordered."
+WO-1203,unplanned,"Loud whine from the pump, noise survey requested. Line 2 stopped for an hour."
+WO-1204,unplanned,"Cooler outlet pipe at high temperature, no guard, contact burn risk. Follow up next week."
+WO-1205,unplanned,"Smoke from oil dripping on the heater, power unit stopped. Line 2 stopped for an hour."
+WO-1206,planned,Routine greasing of the pump coupling done.
+WO-1207,planned,Return filter element changed on schedule.
+WO-1208,unplanned,"Cooler outlet pipe at high temperature, no guard, contact burn risk."
+WO-1209,unplanned,"Leaking return line, oil pooled under the motor, fire extinguisher moved closer. Reported by the night shift."
+WO-1210,planned,Oil sample taken for the monthly analysis.
+WO-1211,unplanned,"Residual pressure in the line after isolation, accumulator not discharged."
+WO-1212,planned,Return filter element changed on schedule.
+WO-1213,unplanned,"Fitter touched the cooler pipe, minor burn on the hand."
+WO-1214,unplanned,"Chafed hose on the bracket, burst risk, rerouted and clamped."
+WO-1215,unplanned,"Pinhole in the high pressure hose, fine oil jet at the coupling. Logged by the shift supervisor."
+WO-1216,unplanned,"Operator hit by oil jet from a split hose, sent to first aid. Spare parts ordered."
+WO-1217,unplanned,"Earth fault on the motor circuit, breaker tripped twice. Line 2 stopped for an hour."
+WO-1218,unplanned,"Pump noise above limit at the operator station, ear protection required."
+WO-1219,planned,Oil sample taken for the monthly analysis. Logged by the shift supervisor.
+WO-1220,unplanned,"Fitter touched the cooler pipe, minor burn on the hand."
+WO-1221,unplanned,"Accumulator still charged after isolation, residual pressure on the gauge."
+WO-1222,planned,"Filter clogging indicator checked, element replaced. Line 2 stopped for an hour."
+WO-1223,unplanned,"Water in the motor terminal box, breaker tripped. Reported by the night shift."
+WO-1224,unplanned,"Water in the motor terminal box, breaker tripped. Spare parts ordered."
+WO-1225,unplanned,"Chafed hose on the bracket, burst risk, rerouted and clamped. Reported by the night shift."
+WO-1226,unplanned,"Motor terminal box cover missing, live parts exposed. Spare parts ordered."
+WO-1227,unplanned,"Damaged motor cable insulation, live conductor visible. Reported by the night shift."
+WO-1228,planned,"Filter clogging indicator checked, element replaced. Reported by the night shift."
+WO-1229,unplanned,"Valve block opened with the accumulator still charged, residual pressure sprayed oil. Reported by the night shift."
+WO-1230,planned,Return filter element changed on schedule.
+WO-1231,planned,Cooler fins cleaned on schedule. Line 2 stopped for an hour.
+WO-1232,planned,Return filter element changed on schedule. Logged by the shift supervisor.
+WO-1233,planned,Cooler fins cleaned on schedule.
+WO-1234,unplanned,"Valve block opened with the accumulator still charged, residual pressure sprayed oil. Spare parts ordered."
+WO-1235,planned,"Filter clogging indicator checked, element replaced. Reported by the night shift."
+WO-1236,unplanned,"Oil mist around the tank, risk of ignition near the heater. Logged by the shift supervisor."
+WO-1237,planned,Routine greasing of the pump coupling done. Reported by the night shift.
+WO-1238,planned,Return filter element changed on schedule.
+WO-1239,planned,Oil sample taken for the monthly analysis.
+WO-1240,planned,"Oil sample sent to the lab, results normal. Follow up next week."
+WO-1241,unplanned,"Hose burst during the press stroke, oil jet across the walkway."
+WO-1242,unplanned,"Chafed hose on the bracket, burst risk, rerouted and clamped. Logged by the shift supervisor."
+WO-1243,unplanned,"Water in the motor terminal box, breaker tripped. Logged by the shift supervisor."
+WO-1244,unplanned,Oil leak on the power unit dripping onto the hot motor housing. Line 2 stopped for an hour.
+WO-1245,unplanned,Hot surface warning label missing on the cooler outlet pipe. Follow up next week.
+WO-1246,unplanned,"Accumulator not discharged before valve removal, residual pressure released at the fitting. Follow up next week."
+WO-1247,planned,Routine greasing of the pump coupling done.
+WO-1248,planned,Return filter element changed on schedule. Follow up next week.
+WO-1249,unplanned,"Chafed hose on the bracket, burst risk, rerouted and clamped."
+WO-1250,unplanned,"Tank surface too hot to touch after a long shift, guard requested."
+WO-1251,unplanned,"Smoke from oil dripping on the heater, power unit stopped."
+WO-1252,planned,Oil sample taken for the monthly analysis. Logged by the shift supervisor.
+WO-1253,planned,Oil sample taken for the monthly analysis. Logged by the shift supervisor.
+WO-1254,unplanned,"Pump noise above limit at the operator station, ear protection required. Reported by the night shift."
+WO-1255,planned,Oil sample taken for the monthly analysis.
+WO-1256,planned,"Filter clogging indicator checked, element replaced."
+WO-1257,unplanned,"Hearing protection sign missing at the pump, noise survey overdue. Line 2 stopped for an hour."
+WO-1258,unplanned,"Motor terminal box cover missing, live parts exposed."
+WO-1259,unplanned,"Loud whine from the pump, noise survey requested. Reported by the night shift."
+WO-1260,unplanned,Burn on the forearm from the hot return pipe.
+WO-1261,unplanned,"Valve block opened with the accumulator still charged, residual pressure sprayed oil."
+WO-1262,unplanned,"Cooler outlet pipe at high temperature, no guard, contact burn risk."
+WO-1263,unplanned,Coupling blew off the high pressure hose during start up. Spare parts ordered.
+WO-1264,unplanned,"Loud whine from the pump, noise survey requested. Spare parts ordered."
+WO-1265,unplanned,"Smoke from oil dripping on the heater, power unit stopped."
+WO-1266,planned,Oil sample taken for the monthly analysis. Follow up next week.
+WO-1267,planned,Cooler fins cleaned on schedule. Logged by the shift supervisor.
+WO-1268,unplanned,"Tank surface too hot to touch after a long shift, guard requested. Logged by the shift supervisor."
+WO-1269,planned,"Oil sample sent to the lab, results normal."
+WO-1270,unplanned,"Loud whine from the pump, noise survey requested."
+WO-1271,unplanned,"Pump noise above limit at the operator station, ear protection required. Logged by the shift supervisor."
+WO-1272,unplanned,"Electric shock from the pump motor casing, earth lead broken."
+WO-1273,unplanned,"Smoke from oil dripping on the heater, power unit stopped."
+WO-1274,planned,"Oil sample sent to the lab, results normal. Spare parts ordered."
+WO-1275,unplanned,"Leaking return line, oil pooled under the motor, fire extinguisher moved closer. Logged by the shift supervisor."
+WO-1276,unplanned,"Hose cover worn through, wire braid visible, hose replaced."
+WO-1277,unplanned,"Oil mist around the tank, risk of ignition near the heater."
+WO-1278,unplanned,"Hose cover worn through, wire braid visible, hose replaced. Follow up next week."
+WO-1279,unplanned,"Operator hit by oil jet from a split hose, sent to first aid."
+WO-1280,unplanned,"Actuator moved after isolation, residual pressure from the accumulator."
+WO-1281,unplanned,"Pinhole in the high pressure hose, fine oil jet at the coupling. Follow up next week."
+WO-1282,unplanned,Oil leak on the power unit dripping onto the hot motor housing.
+WO-1283,unplanned,"Noise level high near the power unit, operators complain. Spare parts ordered."
+WO-1284,unplanned,Burn on the forearm from the hot return pipe.
+WO-1285,unplanned,"Smoke from oil dripping on the heater, power unit stopped."
+WO-1286,unplanned,"Valve block opened with the accumulator still charged, residual pressure sprayed oil."
+WO-1287,unplanned,"Tank surface too hot to touch after a long shift, guard requested. Spare parts ordered."
+WO-1288,unplanned,Oil leak on the power unit dripping onto the hot motor housing.
+WO-1289,planned,Cooler fins cleaned on schedule. Logged by the shift supervisor.
+WO-1290,unplanned,"Valve block opened with the accumulator still charged, residual pressure sprayed oil. Reported by the night shift."
+WO-1291,unplanned,Coupling blew off the high pressure hose during start up. Reported by the night shift.
+WO-1292,unplanned,"Chafed hose on the bracket, burst risk, rerouted and clamped. Logged by the shift supervisor."
+WO-1293,unplanned,Burn on the forearm from the hot return pipe. Logged by the shift supervisor.
+WO-1294,unplanned,"Actuator moved after isolation, residual pressure from the accumulator. Line 2 stopped for an hour."
+WO-1295,unplanned,"Accumulator still charged after isolation, residual pressure on the gauge. Reported by the night shift."
+WO-1296,planned,"Oil sample sent to the lab, results normal."
+WO-1297,unplanned,Oil leak on the power unit dripping onto the hot motor housing. Reported by the night shift.
+WO-1298,planned,"Filter clogging indicator checked, element replaced."
+WO-1299,unplanned,"Lockout on the motor only, accumulator still charged, residual pressure in the line. Spare parts ordered."
+WO-1300,unplanned,"Fitter touched the cooler pipe, minor burn on the hand. Follow up next week."
+WO-1301,unplanned,"Cooler outlet pipe at high temperature, no guard, contact burn risk. Line 2 stopped for an hour."
+WO-1302,planned,Cooler fins cleaned on schedule. Reported by the night shift.
+WO-1303,unplanned,Oil leak on the power unit dripping onto the hot motor housing.
+WO-1304,unplanned,"Chafed hose on the bracket, burst risk, rerouted and clamped."
+WO-1305,unplanned,"Hose cover worn through, wire braid visible, hose replaced."
+WO-1306,unplanned,"Hearing protection sign missing at the pump, noise survey overdue. Reported by the night shift."
+WO-1307,unplanned,"Leaking return line, oil pooled under the motor, fire extinguisher moved closer."
+WO-1308,unplanned,Hot surface warning label missing on the cooler outlet pipe. Line 2 stopped for an hour.
+WO-1309,planned,Routine greasing of the pump coupling done.
+WO-1310,unplanned,"Operator hit by oil jet from a split hose, sent to first aid."
+WO-1311,unplanned,"Pump noise above limit at the operator station, ear protection required. Line 2 stopped for an hour."
+WO-1312,planned,Oil sample taken for the monthly analysis.
+WO-1313,unplanned,"Smoke from oil dripping on the heater, power unit stopped."
+WO-1314,unplanned,"Hose burst during the press stroke, oil jet across the walkway."
+WO-1315,unplanned,"Hose cover worn through, wire braid visible, hose replaced."
+WO-1316,unplanned,"Smell of burning oil near the power unit, leak traced to a fitting."
+WO-1317,unplanned,"Pinhole in the high pressure hose, fine oil jet at the coupling."
+WO-1318,unplanned,"Smell of burning oil near the power unit, leak traced to a fitting. Reported by the night shift."
+WO-1319,unplanned,Coupling blew off the high pressure hose during start up.
+WO-1320,unplanned,Oil leak on the power unit dripping onto the hot motor housing. Reported by the night shift.
+WO-1321,unplanned,"Noise level high near the power unit, operators complain."
+WO-1322,unplanned,"Damaged motor cable insulation, live conductor visible. Reported by the night shift."
+WO-1323,unplanned,"Pinhole in the high pressure hose, fine oil jet at the coupling. Follow up next week."
+WO-1324,unplanned,"Accumulator not discharged before valve removal, residual pressure released at the fitting. Reported by the night shift."
+WO-1325,planned,Cooler fins cleaned on schedule. Reported by the night shift.
+WO-1326,unplanned,"Pump noise above limit at the operator station, ear protection required. Reported by the night shift."
+WO-1327,planned,Cooler fins cleaned on schedule.
+WO-1328,planned,Return filter element changed on schedule. Spare parts ordered.
+WO-1329,unplanned,"Motor terminal box cover missing, live parts exposed. Follow up next week."
+WO-1330,unplanned,"Damaged motor cable insulation, live conductor visible. Reported by the night shift."
+WO-1331,unplanned,Burn on the forearm from the hot return pipe. Line 2 stopped for an hour.
+WO-1332,unplanned,"Hose burst during the press stroke, oil jet across the walkway. Reported by the night shift."
+WO-1333,unplanned,"Hose cover worn through, wire braid visible, hose replaced. Spare parts ordered."
+WO-1334,planned,Cooler fins cleaned on schedule. Spare parts ordered.
+WO-1335,unplanned,Coupling blew off the high pressure hose during start up. Reported by the night shift.
+WO-1336,unplanned,"Pinhole in the high pressure hose, fine oil jet at the coupling. Logged by the shift supervisor."
+WO-1337,planned,Return filter element changed on schedule.
+WO-1338,planned,Return filter element changed on schedule. Follow up next week.
+WO-1339,unplanned,"Valve block opened with the accumulator still charged, residual pressure sprayed oil."
+WO-1340,unplanned,"Hose cover worn through, wire braid visible, hose replaced."
+WO-1341,planned,Routine greasing of the pump coupling done. Logged by the shift supervisor.
+WO-1342,unplanned,"Electric shock from the pump motor casing, earth lead broken. Follow up next week."
+WO-1343,unplanned,Hot surface warning label missing on the cooler outlet pipe. Follow up next week.
+WO-1344,planned,Tank level topped up after the monthly check. Spare parts ordered.
+WO-1345,unplanned,"Oil mist around the tank, risk of ignition near the heater."
+WO-1346,unplanned,Burn on the forearm from the hot return pipe. Follow up next week.
+WO-1347,unplanned,Oil leak on the power unit dripping onto the hot motor housing.
+WO-1348,planned,Cooler fins cleaned on schedule. Line 2 stopped for an hour.
+WO-1349,unplanned,"Oil soaked insulation found under the power unit, ignition risk. Follow up next week."
+WO-1350,unplanned,"Hose cover worn through, wire braid visible, hose replaced. Logged by the shift supervisor."
+WO-1351,unplanned,"Hearing protection sign missing at the pump, noise survey overdue. Line 2 stopped for an hour."
+WO-1352,unplanned,"Loud whine from the pump, noise survey requested. Logged by the shift supervisor."
+WO-1353,unplanned,"Leaking return line, oil pooled under the motor, fire extinguisher moved closer."
+WO-1354,unplanned,"Hose burst during the press stroke, oil jet across the walkway. Logged by the shift supervisor."
+WO-1355,planned,Oil sample taken for the monthly analysis. Logged by the shift supervisor.
+WO-1356,unplanned,"Hearing protection sign missing at the pump, noise survey overdue."
+WO-1357,unplanned,"Residual pressure in the line after isolation, accumulator not discharged. Reported by the night shift."
+WO-1358,unplanned,"Smell of burning oil near the power unit, leak traced to a fitting. Line 2 stopped for an hour."
+WO-1359,planned,Cooler fins cleaned on schedule. Spare parts ordered.
+WO-1360,unplanned,"Smell of burning oil near the power unit, leak traced to a fitting. Logged by the shift supervisor."
+WO-1361,unplanned,"Pump noise above limit at the operator station, ear protection required. Reported by the night shift."
+WO-1362,planned,"Oil sample sent to the lab, results normal."
+WO-1363,planned,"Filter clogging indicator checked, element replaced. Logged by the shift supervisor."
+WO-1364,planned,Return filter element changed on schedule.
+WO-1365,planned,Routine greasing of the pump coupling done.
+WO-1366,unplanned,"Valve block opened with the accumulator still charged, residual pressure sprayed oil. Reported by the night shift."
+WO-1367,unplanned,"Pump noise above limit at the operator station, ear protection required. Logged by the shift supervisor."
+WO-1368,unplanned,Burn on the forearm from the hot return pipe. Spare parts ordered.
+WO-1369,planned,Cooler fins cleaned on schedule.
+WO-1370,unplanned,Oil leak on the power unit dripping onto the hot motor housing. Spare parts ordered.
+WO-1371,planned,Oil sample taken for the monthly analysis. Spare parts ordered.
+WO-1372,unplanned,"Hearing protection sign missing at the pump, noise survey overdue."
+WO-1373,unplanned,Hot surface warning label missing on the cooler outlet pipe.
+WO-1374,unplanned,Coupling blew off the high pressure hose during start up.
+WO-1375,unplanned,"Oil mist around the tank, risk of ignition near the heater. Spare parts ordered."
+WO-1376,unplanned,Oil leak on the power unit dripping onto the hot motor housing.
+WO-1377,unplanned,Coupling blew off the high pressure hose during start up. Reported by the night shift.
+WO-1378,unplanned,"Fitter touched the cooler pipe, minor burn on the hand."
+WO-1379,unplanned,"Smoke from oil dripping on the heater, power unit stopped. Spare parts ordered."
+WO-1380,unplanned,"Earth fault on the motor circuit, breaker tripped twice. Reported by the night shift."
+WO-1381,unplanned,"Smoke from oil dripping on the heater, power unit stopped."
+WO-1382,unplanned,"Chafed hose on the bracket, burst risk, rerouted and clamped. Logged by the shift supervisor."
+WO-1383,planned,Return filter element changed on schedule. Reported by the night shift.
+WO-1384,planned,Routine greasing of the pump coupling done.
+WO-1385,planned,"Filter clogging indicator checked, element replaced. Reported by the night shift."
+WO-1386,unplanned,"Smoke from oil dripping on the heater, power unit stopped. Follow up next week."
+WO-1387,unplanned,"Smoke from oil dripping on the heater, power unit stopped. Spare parts ordered."
+WO-1388,unplanned,"Oil soaked insulation found under the power unit, ignition risk. Logged by the shift supervisor."
+WO-1389,unplanned,"Motor terminal box cover missing, live parts exposed."
+WO-1390,unplanned,"Actuator moved after isolation, residual pressure from the accumulator."
+WO-1391,unplanned,"Loud whine from the pump, noise survey requested. Follow up next week."
+WO-1392,unplanned,"Electric shock from the pump motor casing, earth lead broken. Line 2 stopped for an hour."
+WO-1393,unplanned,Burn on the forearm from the hot return pipe.
+WO-1394,unplanned,"Chafed hose on the bracket, burst risk, rerouted and clamped. Reported by the night shift."
+WO-1395,unplanned,"Oil mist around the tank, risk of ignition near the heater. Spare parts ordered."
+WO-1396,unplanned,Hot surface warning label missing on the cooler outlet pipe.
+WO-1397,unplanned,"Loud whine from the pump, noise survey requested."
+WO-1398,unplanned,"Pump noise above limit at the operator station, ear protection required. Spare parts ordered."
+WO-1399,unplanned,"Noise level high near the power unit, operators complain. Line 2 stopped for an hour."
+WO-1400,unplanned,"Hearing protection sign missing at the pump, noise survey overdue. Line 2 stopped for an hour."
+WO-1401,unplanned,"Lockout on the motor only, accumulator still charged, residual pressure in the line. Reported by the night shift."
+WO-1402,unplanned,"Tank surface too hot to touch after a long shift, guard requested. Reported by the night shift."
+WO-1403,planned,Return filter element changed on schedule.
+WO-1404,unplanned,"Hose burst during the press stroke, oil jet across the walkway."
+WO-1405,unplanned,"Leaking return line, oil pooled under the motor, fire extinguisher moved closer. Reported by the night shift."
+WO-1406,unplanned,"Pump noise above limit at the operator station, ear protection required."
+WO-1407,planned,"Oil sample sent to the lab, results normal. Line 2 stopped for an hour."
+WO-1408,unplanned,"Lockout on the motor only, accumulator still charged, residual pressure in the line. Line 2 stopped for an hour."
+WO-1409,unplanned,"Accumulator still charged after isolation, residual pressure on the gauge. Line 2 stopped for an hour."
+WO-1410,planned,Oil sample taken for the monthly analysis. Spare parts ordered.
+WO-1411,unplanned,"Earth fault on the motor circuit, breaker tripped twice."
+WO-1412,unplanned,"Smoke from oil dripping on the heater, power unit stopped."
+WO-1413,unplanned,"Motor terminal box cover missing, live parts exposed."
+WO-1414,planned,Tank level topped up after the monthly check.
